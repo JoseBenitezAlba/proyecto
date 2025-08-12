@@ -7,7 +7,7 @@ Este es mi portafolio como desarrollador web. He creado distintas páginas con H
 - `index.html`: Página principal con enlaces a varios proyectos. Incluye miniaturas e información básica.
 - `contacto.html`: Formulario de contacto con estilos personalizados y estructura clara.
 - `contacto2.html`: Variante del formulario con hoja de estilos distinta (`style1.css`) para experimentar nuevas ideas.
-- `productos.html`: [Pendiente de descripción si quieres que lo incluya aquí]
+- `productos.html`: [Pendiente de realizacion]
 
 ## 📸 Proyectos destacados
 
